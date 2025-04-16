@@ -1,0 +1,14 @@
+[project]
+name = "mcpwrap"
+version = "0.1.0"
+description = "Dynamic MCP wrapper for Python libraries"
+readme = "README.md"
+authors = [
+    { name = "moorkh", email = "moorkh@ergodic.xyz" }
+]
+requires-python = ">=3.14"
+dependencies = []
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
